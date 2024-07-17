@@ -1,1 +1,1 @@
-# imdb-reviews-analysis
+# Sentiment, Temporal, and Correlational Analysis of IMDB Reviews
