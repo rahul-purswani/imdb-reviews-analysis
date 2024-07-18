@@ -1,8 +1,7 @@
 # Sentiment, Temporal, and Correlational Analysis of IMDB Reviews
 <h>Group members: Rahul Purswani, Vijay Verma, Joe Rubalcava<h><br>
 ## Overview
-The IMDb Movie Reviews Analysis project is a comprehensive study involving data extraction, pre-processing, sentiment analysis, temporal analysis, and correlational analysis of movie reviews from IMDb. This project aims to uncover patterns and trends in movie reviews and understand how sentiments and ratings evolve over time.</br>
-
+This project aims to reveal patterns and trends in movie reviews, providing insights into how sentiments and ratings change over time. By performing Sentiment Analysis, Temporal Analysis, and Correlational Analysis, this study seeks to understand the dynamics of audience opinions and their evolution, ultimately offering a comprehensive view of movie review sentiments. Additionally we also built a sentiment prediction model that predicts the sentiment of a review.
 [Click here](https://github.com/rahul-purswani/imdb-reviews-analysis/blob/main/Report.pdf) for the project report. Demo for the sentiment prediction model can be viewed in demo.mp4.
 
 
