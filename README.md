@@ -1,7 +1,10 @@
 # Sentiment, Temporal, and Correlational Analysis of IMDB Reviews
 <h>Group members: Rahul Purswani, Vijay Verma, Joe Rubalcava<h><br>
 ## Overview
-The IMDb Movie Reviews Analysis project is a comprehensive study involving data extraction, pre-processing, sentiment analysis, temporal analysis, and correlational analysis of movie reviews from IMDb. This project aims to uncover patterns and trends in movie reviews and understand how sentiments and ratings evolve over time.
+The IMDb Movie Reviews Analysis project is a comprehensive study involving data extraction, pre-processing, sentiment analysis, temporal analysis, and correlational analysis of movie reviews from IMDb. This project aims to uncover patterns and trends in movie reviews and understand how sentiments and ratings evolve over time.</br>
+
+Project report and demo for the sentiment prediction model are included in the repositary. Report.pdf
+
 
 <b>Key Components:</b>
 1. Data Extraction – Web Scraping:
@@ -26,16 +29,3 @@ The IMDb Movie Reviews Analysis project is a comprehensive study involving data 
 5. Correlational Analysis:
    - Explored correlations between different movie genres based on frequent reviewers' ratings.
    - Identified positive correlations between certain genres, such as horror and adventure movies.
-
-## References
-P. D. (2023, May 12). GitHub - pandas-dev/pandas: Flexible and powerful data analysis / manipulation library for Python, providing labeled data
-structures similar to R data.frame objects, statistical functions, and much more. GitHub. https://github.com/pandas-dev/pandas
-M. (2023, May 12). GitHub - matplotlib/matplotlib: matplotlib: plotting with Python. GitHub. https://github.com/matplotlib/matplotlib
-M. (2023, May 9). GitHub - mwaskom/seaborn: Statistical data visualization in Python. GitHub. https://github.com/mwaskom/seaborn
-Analyzing IMDB Movie Dataset. (n.d.). Analyzing IMDB Movie Dataset. https://www.linkedin.com/pulse/analyzing-imdb-movie-dataset-preetish-
-panda
-P. D. (2023, May 12). GitHub - pandas-dev/pandas: Flexible and powerful data analysis / manipulation library for Python, providing labeled data
-structures similar to R data.frame objects, statistical functions, and much more. GitHub. https://github.com/pandas-dev/pandas
-M. (2023, May 12). GitHub - matplotlib/matplotlib: matplotlib: plotting with Python. GitHub. https://github.com/matplotlib/matplotlib
-NumPy. GitHub. (2023, May 12). GitHub – numpy: The fundamental package for scientific computing with Python. Github.
-https://github.com/numpy
