@@ -3,7 +3,7 @@
 ## Overview
 The IMDb Movie Reviews Analysis project is a comprehensive study involving data extraction, pre-processing, sentiment analysis, temporal analysis, and correlational analysis of movie reviews from IMDb. This project aims to uncover patterns and trends in movie reviews and understand how sentiments and ratings evolve over time.</br>
 
-[Click here](https://github.com/rahul-purswani/imdb-reviews-analysis/blob/main/Report.pdf) for the project report. and demo for the sentiment prediction model are included in the repositary. Report.pdf
+[Click here](https://github.com/rahul-purswani/imdb-reviews-analysis/blob/main/Report.pdf) for the project report. Demo for the sentiment prediction model can be viewed in demo.mp4.
 
 
 <b>Key Components:</b>
