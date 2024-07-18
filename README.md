@@ -2,9 +2,9 @@
 <h>Group members: Rahul Purswani, Vijay Verma, Joe Rubalcava<h><br>
 <b>Key Components:</b>
 1. Data Extraction – Web Scraping:
-   Utilized Selenium and Chromium WebDriver to scrape data from IMDb pages.
-   Collected data from the top 100 highest-rated and lowest-rated movies on IMDb, resulting in 200 movies for analysis.
-   Extracted various attributes including movie titles, release years, genres, and detailed review data.
+   - Utilized Selenium and Chromium WebDriver to scrape data from IMDb pages.
+   - Collected data from the top 100 highest-rated and lowest-rated movies on IMDb, resulting in 200 movies for analysis.
+   - Extracted various attributes including movie titles, release years, genres, and detailed review data.
 
     Data Pre-processing:
         Cleaned and formatted the dataset to ensure consistency and accuracy.
